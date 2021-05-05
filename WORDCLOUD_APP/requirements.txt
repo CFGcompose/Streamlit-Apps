@@ -1,0 +1,7 @@
+numpy
+pandas
+nltk
+wordcloud 
+psycopg2 
+matplotlib
+streamlit
